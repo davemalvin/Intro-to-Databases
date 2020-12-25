@@ -2,7 +2,7 @@
 Notes, Coursework, Tutorials
 
 ## Coursework
-Writing SQL queries
+Writing SQL queries</br>
 Final Mark: **100/100**
 
 ## Notes
