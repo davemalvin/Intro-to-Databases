@@ -2,7 +2,8 @@
 Notes, Coursework, Tutorials
 
 ## Coursework
-Final Mark: 100/100
+Writing SQL queries
+Final Mark: **100/100**
 
 ## Notes
 Scanned handwritten notes on lectures:
